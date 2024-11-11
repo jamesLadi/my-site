@@ -13,7 +13,7 @@
 
 
   const typed = new Typed('.multiple-text', {
-      strings: ['Fullstack Developer', 'Graphic Desingner', 'Web Developmer', 'Web Desingner.'],
+      strings: ['Fullstack Developer', 'Graphic Desingner', 'Web Developer', 'Web Desingner.'],
       typeSpeed: 70,
       backSpeed: 70,
       backDelay: 1200,
